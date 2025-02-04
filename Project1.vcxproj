@@ -138,15 +138,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Desktop\GLAD\src\glad.c" />
+    <ClCompile Include="..\..\..\..\Desktop\GLAD\src\glad.c" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="stb_image_implementation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shader.h" />
+    <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="shader.fs" />
-    <None Include="shader.vs" />
+    <None Include="shader.frag" />
+    <None Include="shader.vert">
+      <FileType>Document</FileType>
+    </None>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

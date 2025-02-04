@@ -40,7 +40,7 @@ int main() {
 
 	// build and compile our shader program
 	// ------------------------------------
-	Shader ourShader("shader.vs", "shader.fs");
+	Shader ourShader("shader.vert", "shader.frag");
 
 
 	// vertices of our triangle
@@ -51,6 +51,12 @@ int main() {
 		-0.5f, -0.5f, 0.0f,	0.0f, 1.0f, 0.0f, // bottom left
 		 0.5f, -0.5f, 0.0f,	1.0f, 0.0f, 0.0f, // bottom right
 	};
+
+	/* float texCoords[]{
+		0.0f, 0.0f, // lower-left corner
+		1.0f, 0.0f, // lower-right corner
+		0.5f, 1.0f // top-center corner
+	}; */
 
 	unsigned int VBO, VAO;
 	glGenVertexArrays(1, &VAO);
