@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\iplan\\source\\repos\\OpenGL2025\\OpenGL\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-30T01:17:45.343Z",
               "EditorCaption": ""
@@ -45,9 +45,10 @@
               "RelativeDocumentMoniker": "shader.vert",
               "ToolTip": "C:\\Users\\iplan\\source\\repos\\OpenGL2025\\OpenGL\\shader.vert",
               "RelativeToolTip": "shader.vert",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-03T05:21:43.16Z"
+              "WhenOpened": "2025-02-03T05:21:43.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,9 +58,10 @@
               "RelativeDocumentMoniker": "shader.frag",
               "ToolTip": "C:\\Users\\iplan\\source\\repos\\OpenGL2025\\OpenGL\\shader.frag",
               "RelativeToolTip": "shader.frag",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-05T19:24:42.504Z"
+              "WhenOpened": "2025-02-05T19:24:42.504Z",
+              "EditorCaption": ""
             }
           ]
         }
